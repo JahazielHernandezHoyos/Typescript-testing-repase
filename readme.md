@@ -2,29 +2,15 @@
 ## Caracteristicas principales de typescript
 
 ### 1. Tipos de datos
-
-    - number
-    - string
-    - boolean
-    - any
-    - array
-    - enum
-    - any
-    - void
-    - null
-    - undefined
-    - never
-    - object
-    - typeof
-    - symbol
-    - bigint
-### tipos de datos personalizados
-    - union types
-    - intersection types
-    - type aliases
-    - type guards
-    - type coercions
-    - type inference
-    - type casting
-    - type guards
-    - type assertions
+    - any  (cualquier tipo de dato)
+    - array (arreglo)
+    - enum (enumeracion)
+    - void (no devuelve nada)
+    - null (null)
+    - undefined (undefined)
+    - never (no se puede)
+    - object (objeto)
+    - typeof (tipo de dato)
+    - symbol (simbolo)
+    - bigint (numeros grandes)
+ 
