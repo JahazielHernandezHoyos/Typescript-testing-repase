@@ -18,8 +18,7 @@
     - typeof
     - symbol
     - bigint
-
-    - tipos de datos personalizados
+### tipos de datos personalizados
     - union types
     - intersection types
     - type aliases
